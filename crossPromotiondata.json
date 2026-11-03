@@ -7,6 +7,24 @@
       "app_store_id": "https://apps.apple.com/us/app/cosmic-algae-superhero-brawler/id6814722235",
       "banner_image_url": "https://yourdomain.com/banners/cosmic_algae.png"
     },
+     {
+      "game_id": "influencer_simulator",
+      "title": "Influencer Superhero Simulator",
+      "app_store_id": "https://apps.apple.com/us/app/influencer-superhero-simulator/id6766208645",
+      "banner_image_url": "https://yourdomain.com/banners/influencer_simulator.png"
+    },
+     {
+      "game_id": "boinko_monkey",
+      "title": "Boinko Monkey Chaos Island Run",
+      "app_store_id": "https://apps.apple.com/us/app/boinko-monkey-chaos-island-run/id6758886130",
+      "banner_image_url": "https://yourdomain.com/banners/boinko_monkey.png"
+    },
+    {
+      "game_id": "Dead Atom Slasher Radioactive",
+      "title": "Dead Atom Slasher Radioactive",
+      "app_store_id": "https://apps.apple.com/us/app/dead-atom-slasher-radioactive/id6820375449",
+      "banner_image_url": "https://yourdomain.com/banners/boinko_monkey.png"
+    },
     {
       "game_id": "infinity_realm",
       "title": "Infinity Realm Superhero Rift",
@@ -26,22 +44,12 @@
       "banner_image_url": "https://yourdomain.com/banners/laundry_puzzle.png"
     },
     {
-      "game_id": "influencer_simulator",
-      "title": "Influencer Superhero Simulator",
-      "app_store_id": "https://apps.apple.com/us/app/influencer-superhero-simulator/id6766208645",
-      "banner_image_url": "https://yourdomain.com/banners/influencer_simulator.png"
-    },
-    {
       "game_id": "black_hoodie_hero",
       "title": "Black Hoodie Web Magic Hero",
       "app_store_id": "https://apps.apple.com/us/app/black-hoodie-web-magic-hero/id6760034631",
       "banner_image_url": "https://yourdomain.com/banners/black_hoodie_hero.png"
-    },
-    {
-      "game_id": "boinko_monkey",
-      "title": "Boinko Monkey Chaos Island Run",
-      "app_store_id": "https://apps.apple.com/us/app/boinko-monkey-chaos-island-run/id6758886130",
-      "banner_image_url": "https://yourdomain.com/banners/boinko_monkey.png"
     }
+   
+
   ]
 }
